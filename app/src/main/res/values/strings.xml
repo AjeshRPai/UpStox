@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UpStox</string>
+    <string name="retry_button">Retry</string>
+</resources>
